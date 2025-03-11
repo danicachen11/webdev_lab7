@@ -8,3 +8,18 @@ td {
   text-align: center;
   border: 1px solid gray;
 }
+
+.field-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.yes {
+  background-color: lightgreen;
+  color: darkgreen; 
+}
+
+.no {
+  background-color: palevioletred;
+  color: darkred;
+}
